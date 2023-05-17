@@ -28,7 +28,7 @@ You need the following to build and run the application:
 
 
 ## How to run Application(s)
-### step 1 - clone project with Terminal from [here](https://github.com/TryG70/ClusteredData-Warehouse)
+### step 1 - clone project with Terminal from [here](https://github.com/Colemicha/Clustered-Data-Warehousegit init )
 
 ```
 git clone git@github.com:TryG70/ClusteredData-Warehouse.git
